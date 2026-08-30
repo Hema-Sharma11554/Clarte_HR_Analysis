@@ -1,7 +1,8 @@
 Clarte - HR Attrition & Performance Analysis
 
 📌 Project Overview
-This project analyzes employee attrition patterns at Clarte to identify key reasons for leaving and workforce trends. The analysis covers 835 employees to provide data-driven insights for HR retention strategy.
+This project analyzes employee attrition patterns at Clarte to identify key reasons for leaving and workforce trends. 
+This analysis is based on 835 employees (614 Left) to provide data-driven insights for HR retention strategy.
 
 📊 Dashboards
 1. KPI Overview
