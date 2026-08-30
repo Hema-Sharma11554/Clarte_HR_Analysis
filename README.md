@@ -4,6 +4,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+# Clarte HR Analysis - Attrition & Performance
 
 ## 📊 Main Power BI Dashboards
 
@@ -23,17 +24,9 @@
 
 Full Report: [CLarte_HR_Dashboard.pdf](CLarte_HR_Dashboard.pdf)
 Data: [HR_Clarte_Data.xlsx](HR_Clarte_Data.xlsx)
-### 📊 Live Dashboards
-# Clarte HR Attrition & Performance Analysis
 
-#### Main Dashboard - Attrition Overview
-![Dashboard 1](dashboard1.png)
-![Dashboard 2](dashboard2.png)
 
-#### KPIs
-![KPI](KPI.png)
-![Reason for Leaving](Reason%20for%20Leaving.png)
-![Avg Salary](Avg%20salary%20for%20leaving.png)
+
 
 Full Dashboard PDF: CLarte_HR_Dashboard.pdf
 #### 1. Workforce Attrition Overview
