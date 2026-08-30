@@ -20,11 +20,12 @@ Analyzed employee attrition patterns and performance metrics to identify key rea
 <img width="937" height="527" alt="Dash2" src="https://github.com/user-attachments/assets/342e8d9f-92df-4376-91af-25157ef35fcd" />
 
 ## 🔍 Key Insights
-- Main reason for leaving is...
-- Department with highest attrition...
-- Salary vs Attrition correlation...
+- **Main reason for leaving is Better Opportunity / Work Culture:** 50.81% employees (312 out of 614) ne isi wajah se company chodi.
+- **Attrition rate is high (73.5%):** Total 835 me se 614 employees leave kar chuke hain, jo HR ke liye major concern hai.
+- **Salary & Experience Impact:** Avg salary ₹80,906 aur average tenure 12.26 Years hai, phir bhi Better Salary aur Career Growth bhi leaving ke top reasons me hai.
 
 ## 👩‍💻 Created By
-Hema Sharma
+Hema Sharma | HR Analytics Project | 2020-2026
+
 
 
