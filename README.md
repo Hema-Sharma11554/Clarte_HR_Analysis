@@ -25,15 +25,6 @@
 Full Report: [CLarte_HR_Dashboard.pdf](CLarte_HR_Dashboard.pdf)
 Data: [HR_Clarte_Data.xlsx](HR_Clarte_Data.xlsx)
 
-
-
-
-Full Dashboard PDF: CLarte_HR_Dashboard.pdf
-#### 1. Workforce Attrition Overview
-![KPI](KPI.png)
-![Reason for Leaving](Reason%20for%20Leaving.png)
-![Avg Salary](Avg%20salary%20for%20leaving.png)
-
 #### 2. Performance & Retention Analysis
 Full detailed PDF available: [Clarte_HR_Dashboard.pdf](Clarte_HR_Dashboard.pdf)
 
