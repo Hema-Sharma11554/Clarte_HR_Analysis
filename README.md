@@ -5,6 +5,24 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## 📊 Main Power BI Dashboards
+
+### Dashboard 1 - Attrition Overview
+![Dashboard 1](dash1.png)
+
+### Dashboard 2 - Performance Analysis
+![Dashboard 2](dash2.png)
+
+## 📈 KPI Screenshots
+
+![KPI](KPI.png)
+
+![Reason for Leaving](Reason%20for%20Leaving.png)
+
+![Avg Salary](Avg%20salary%20for%20leaving.png)
+
+Full Report: [CLarte_HR_Dashboard.pdf](CLarte_HR_Dashboard.pdf)
+Data: [HR_Clarte_Data.xlsx](HR_Clarte_Data.xlsx)
 ### 📊 Live Dashboards
 # Clarte HR Attrition & Performance Analysis
 
