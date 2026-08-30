@@ -6,7 +6,20 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 Live Dashboards
+# Clarte HR Attrition & Performance Analysis
 
+#### Main Dashboard - Attrition Overview
+![Overview](dashboard-overview.png)
+
+#### Performance Analysis
+![Performance](dashboard-performance.png)
+
+#### KPIs
+![KPI](KPI.png)
+![Reason for Leaving](Reason%20for%20Leaving.png)
+![Avg Salary](Avg%20salary%20for%20leaving.png)
+
+Full Dashboard PDF: CLarte_HR_Dashboard.pdf
 #### 1. Workforce Attrition Overview
 ![KPI](KPI.png)
 ![Reason for Leaving](Reason%20for%20Leaving.png)
