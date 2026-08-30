@@ -9,7 +9,7 @@
 # Clarte HR Attrition & Performance Analysis
 
 #### Main Dashboard - Attrition Overview
-![Overview](dashboard-overview.png)
+![Overview](Clarte-Attrition Analysis-2025-2026-overview.png.png)
 
 #### Performance Analysis
 ![Performance](dashboard-performance.png)
