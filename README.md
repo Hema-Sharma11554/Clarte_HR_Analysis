@@ -23,10 +23,6 @@ This project analyzes employee attrition patterns at Clarte to identify key reas
 - 54 (8.79%) - Better Salary
 - 28 (4.56%) - Work Culture
 
-4. Detailed Dashboards
-<img width="936" height="527" alt="Dash1" src="https://github.com/user-attachments/assets/2c60a20e-0933-43f2-99fc-77fb203acfc2" />
-<img width="937" height="527" alt="Dash2" src="https://github.com/user-attachments/assets/342e8d9f-92df-4376-91af-25157ef35fcd" />
-
 Key Insights
 - Top Reason for Leaving: 50.81% of employees (312 out of 614) left due to Better Opportunity and Work Culture issues.
 - Critical Attrition Rate: 73.5% attrition rate observed (614 out of 835 employees have left).
