@@ -8,6 +8,8 @@
 ### 📊 Live Dashboards
 
 #### 1. Workforce Attrition Overview
+![Dashboard 1](Dashboard%201.png)
+![Dashboard 2](Dashboard%202.png)
 ![KPI](KPI.png)
 ![Reason for Leaving](Reason%20for%20Leaving.png)
 ![Avg Salary](Avg%20salary%20for%20leaving.png)
