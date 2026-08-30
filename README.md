@@ -9,10 +9,8 @@
 # Clarte HR Attrition & Performance Analysis
 
 #### Main Dashboard - Attrition Overview
-![Overview](overview.png.png)
-
-#### Performance Analysis
-![Performance](dashboard-performance.png)
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
 
 #### KPIs
 ![KPI](KPI.png)
