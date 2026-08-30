@@ -7,13 +7,6 @@
 
 <img src="https://raw.githubusercontent.com/Hema-Sharma11554/Clarte_HR_Analysis/main/Avg%20salary%20for%20leaving.png" width="800">
 
-### Main Dashboards - Agar aapne dash1.png aur dash2.png naam se upload kiya hai to:
-<img src="https://raw.githubusercontent.com/Hema-Sharma11554/Clarte_HR_Analysis/main/dash1.png" width="800">
-
-<img src="https://raw.githubusercontent.com/Hema-Sharma11554/Clarte_HR_Analysis/main/dash2.png" width="800">
-
-
-
 
 # Clarte HR Attrition & Performance Analysis
 
